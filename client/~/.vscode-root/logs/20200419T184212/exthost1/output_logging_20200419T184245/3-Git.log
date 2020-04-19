@@ -1,0 +1,95 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/my-projects/complex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :client/package.json
+> git ls-files --stage -- /home/my-projects/complex/client/package.json
+> git cat-file -s 463ef1567c83e3f1b271a94c82fef9875e43e53f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :client/Dockerfile.dev
+> git ls-files --stage -- /home/my-projects/complex/client/Dockerfile.dev
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :worker/Dockerfile.dev
+> git ls-files --stage -- /home/my-projects/complex/worker/Dockerfile.dev
+> git show :docker-compose.yml
+> git ls-files --stage -- /home/my-projects/complex/docker-compose.yml
+> git show :worker/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/worker/Dockerfile
+> git check-ignore -v -z --stdin
+> git show :worker/Dockerfile.dev
+> git ls-files --stage -- /home/my-projects/complex/worker/Dockerfile.dev
+> git show :worker/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/worker/Dockerfile
+> git show :server/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/server/Dockerfile
+> git check-ignore -v -z --stdin
+> git show :worker/Dockerfile.dev
+> git ls-files --stage -- /home/my-projects/complex/worker/Dockerfile.dev
+> git show :server/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/server/Dockerfile
+> git check-ignore -v -z --stdin
+> git show :nginx/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/nginx/Dockerfile
+> git check-ignore -v -z --stdin
+> git show :nginx/Dockerfile.dev
+> git ls-files --stage -- /home/my-projects/complex/nginx/Dockerfile.dev
+> git show :nginx/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/nginx/Dockerfile
+> git show :nginx/default.conf
+> git ls-files --stage -- /home/my-projects/complex/nginx/default.conf
+> git show :nginx/Dockerfile
+> git ls-files --stage -- /home/my-projects/complex/nginx/Dockerfile
